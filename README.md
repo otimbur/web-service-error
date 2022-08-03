@@ -1,5 +1,4 @@
-# replit-php-template
+# web-services
 
-This is a repo to use as a template for working with PHP on replit.  Import this repo and re-name the repo to match your project name.
+This is a repo to use as a starter for building a web services application with PHP on replit.  It includes James Bond film info as the sample data.  None of the web service code is included but will be added by working together in the IT121 class.
 
-This will allow us to always have a working application when we start a new project.
