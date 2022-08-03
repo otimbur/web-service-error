@@ -12,7 +12,7 @@ $(document).ready(function() {
 	$('.category').click(function(e){
         e.preventDefault(); //stop default action of the link
 		cat = $(this).attr("href");  //get category from URL
-		loadAJAX(cat);  //load AJAX and parse JSON file
+		alert(cat);
 	});
 });	
 
